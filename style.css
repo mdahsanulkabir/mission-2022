@@ -45,6 +45,10 @@ section{
     text-align: center;
 }
 
+.center-text span{
+    color: salmon;
+}
+
 .button{
     text-decoration: none;
     color:white;
@@ -144,4 +148,9 @@ img{
     color: white;
     padding: 10px;
     margin: 0;
+}
+
+form {
+    margin-top: 200px;
+    width: 50%;
 }
