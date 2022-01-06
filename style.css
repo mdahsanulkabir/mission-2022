@@ -31,8 +31,8 @@ section{
     font-size:200%;
 }
 
-.orange-text{
-    color: orange;
+.tomato-text{
+    color: tomato;
 }
 
 .divide-width-in-three{
@@ -57,6 +57,11 @@ img{
     width: 70%;
 }
 
+#strategy-heading{
+    font-size: 200%;
+    font-family: 'Moon Dance', cursive;
+}
+
 .divide-width-in-three img{
     width: 50%;
 }
@@ -66,15 +71,30 @@ img{
 }
 
 #mission-bg{
-    background-color: rgba(130, 250, 246,1);
+    background-color: rgba(80, 252, 0, 0.5);
 }
 
 #vision-bg{
-    background-color: rgba(237, 43, 143,.3);
+    background-color: rgba(237, 43, 143,.5);
 }
 
 #goal-bg{
-    background-color: rgba(203, 245, 15,.3);
+    background-color: rgba(247, 140, 0,.5);
+}
+
+.abril-font{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 200%;
+}
+
+.abril-font span{
+    font-family: 'Poppins', sans-serif;
+    font-size: 80%;
+}
+
+.vujahday-font{
+    font-family: 'Vujahday Script', cursive;
+    font-size: 200%;
 }
 
 #left-circle{
