@@ -154,6 +154,10 @@ img{
     width: 80%;
 } */
 
+.input{
+    height: 26px;
+}
+
 #submit{
     padding: 10px 20px;
     border-radius: 10px;
@@ -162,6 +166,4 @@ img{
     font-size: 20px;
 }
 
-.input{
-    height: 26px;
-}
+
